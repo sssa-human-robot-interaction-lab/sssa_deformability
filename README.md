@@ -16,3 +16,5 @@ In this folder:
 * _G_reachvel_accel_time_perc.csv_ contains the mean acceleration time rate (%) of the reaching movement of each subject in each condition;
 * _H_reachvel_decel_time_perc.csv_ contains the mean deceleration time rate (%) of the reaching movement of each subject in each condition;
 * _I_reachvel_peak_velocity.csv_ contains the mean peak velocity of the reaching movement of each subject in each condition.
+
+N.B. When data are missing for a specific subject, the row was filled with NaN, which stands for "not a number".
